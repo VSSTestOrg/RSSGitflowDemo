@@ -1,1 +1,1 @@
-This is the base text in master
+This is the base text in master that was changed in develop branch
